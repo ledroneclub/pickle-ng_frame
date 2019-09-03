@@ -2,6 +2,8 @@
 
 You'll find here the latest version of the Pickle frame as of September 2019. Those 2 frames have been reworked for simplicity, and durability.
 
+Check in the "releases" menu for the latest good versions.
+
 ![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle-ng_frame/blob/master/gfx/render2.png)
 
 You may follow me on [Instagram](https://www.instagram.com/ledrone.club/) and [YouTube](https://www.youtube.com/channel/UCapTPmZgBj52TmWORFjEoqg)
