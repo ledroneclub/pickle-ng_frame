@@ -16,17 +16,18 @@ Pickle-ng frames come in 2 versions :
 * Fits 9mm motors with 4 holes mount (like 110x, 120x, etc.)
 * Whoop AIO (26x26mm) and 16x16 FC mount
 * recommended CNC cutting : 2.5mm thick with chamfer
-* estimated weight : ~5.2g
+* estimated weight : ~5.4g
 
 
 ## 3inch trueX version 
 
-* 112mm wheelbase
-* Fits 9mm motors with 4 holes mount (like 110x, 120x, etc.)
+* 116mm wheelbase
+* Fits 9mm motors with 4 holes mount (like 110x, 120x, 130x, etc.)
 * Whoop AIO (26x26mm) and 16x16 FC mount
 * recommended CNC cutting : 3mm thick with chamfer (along weave)
-* estimated weight : ~6g
+* estimated weight : ~7-8g
 
+**The 3HOLE version of each frame will fit 3 hole motors as the Amaxinno 1103, Happymodel 1102/3**
 
 ## How to get this frame ?
 
